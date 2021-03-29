@@ -1,12 +1,11 @@
 {
     "name": "amirnajmi/category",
     "description": ":package_description",
-    "license": "license",
+    "license": "MIT",
     "authors": [
         {
-            "name": "author name",
-            "email": "author email",
-            "homepage": "author homepage"
+            "name": "amirnajmi",
+            "email": "amirmo.naj@gmail.com",
         }
     ],
     "minimum-stability": "dev",
