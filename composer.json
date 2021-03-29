@@ -9,6 +9,7 @@
             "homepage": "author homepage"
         }
     ],
+    "minimum-stability": "dev",
     "homepage": "https://github.com/amirnajmi/category",
     "keywords": ["Laravel", "Category"],
     "require": {
